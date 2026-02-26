@@ -1,7 +1,6 @@
 🖥️ Employee Record Management System (Java Swing)
 
-
-![Uploading Screenshot 2026-02-26 113316.png…]()
+<img width="1050" height="188" alt="Screenshot 2026-02-26 113316" src="https://github.com/user-attachments/assets/a8791067-00b1-473e-aee5-4f15c6fc57ea" />
 
 A simple Desktop GUI Application built using Java Swing to manage employee records.
 The application allows users to Save, View, Update, Delete, Search, and Navigate employee data stored in a text file.
